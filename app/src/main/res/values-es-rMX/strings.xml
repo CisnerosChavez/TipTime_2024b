@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hora de la Propina</string>
+    <string name="cost_of_service">Costo del Servicio</string>
+    <string name="how_was_the_service">¿Cómo fue el servicio?</string>
+    <string name="amazing_service">Increíble (20%)</string>
+    <string name="good_service">Bueno (18%)</string>
+    <string name="ok_service">Aceptable (15%)</string>
+    <string name="round_up_tip">¿Redondear propina?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">"Monto de la Propina "</string>
+</resources>
